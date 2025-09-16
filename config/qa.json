@@ -1,11 +1,3 @@
 {
-  "book_library_baseurl" : "https://rahulshettyacademy.com",
-  "add_book_endpoint": "/Library/Addbook.php",
-  "add_book_payload" :
-  {
-    "name": "Learn Appium Automation with Java",
-    "isbn": "QE",
-    "aisle": "122",
-    "author": "John foe"
-  }
+  "book_library_baseurl" : "https://rahulshettyacademy.com"
 }
