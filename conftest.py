@@ -1,7 +1,5 @@
 import json
 import random
-
-import playwright
 import pytest
 
 #Configure Environment
